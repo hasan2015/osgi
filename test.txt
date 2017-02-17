@@ -1,2 +1,3 @@
 this is my first  time to use Notepad++;
 Add a new line
+add a new line again
