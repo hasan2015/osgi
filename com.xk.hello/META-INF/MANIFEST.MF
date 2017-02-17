@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Hello
+Bundle-SymbolicName: com.xk.hello
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.xk.hello.activator.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: org.osgi.framework;version="1.8.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.xk.hello
